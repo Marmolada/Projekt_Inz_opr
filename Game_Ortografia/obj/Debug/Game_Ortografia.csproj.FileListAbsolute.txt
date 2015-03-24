@@ -9,3 +9,14 @@ D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\
 D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.pdb
 D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Ortografia_database.mdf
 D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Ortografia_database_log.ldf
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\bin\Debug\Game_Ortografia.exe.config
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.exe
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.pdb
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\bin\Debug\Ortografia_database.mdf
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\bin\Debug\Ortografia_database_log.ldf
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\bin\Debug\Game_Ortografia.exe
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\bin\Debug\Game_Ortografia.pdb
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.csprojResolveAssemblyReference.cache
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.Form1.resources
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.Properties.Resources.resources
+D:\Studia\Projekt_Inz_opr\Game_Ortografia\obj\Debug\Game_Ortografia.csproj.GenerateResource.Cache
