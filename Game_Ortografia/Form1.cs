@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
@@ -28,11 +29,7 @@ namespace Game_Ortografia
 
             if(etap.Is_empty() != true)
             {
-                Stopwatch stopwatch = new Stopwatch();
-                stopwatch.Start();
-                while (stopwatch.ElapsedMilliseconds < 2000)
-                { }
-                stopwatch.Stop();
+                Thread.Sleep(3000);
                 Fill();
             }
             else

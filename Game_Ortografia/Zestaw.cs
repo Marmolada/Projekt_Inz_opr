@@ -64,12 +64,12 @@ namespace Game_Ortografia
                     W_1 = "RZ";
                     W_2 = "Ż";
                 }
-                else if( a == 2)
+                else if(a == 2)
                 {
                     W_1 = "CH";
                     W_2 = "H";
                 }
-                else if (a == 2)
+                else if (a == 3)
                 {
                     W_1 = "Ó";
                     W_2 = "U";
