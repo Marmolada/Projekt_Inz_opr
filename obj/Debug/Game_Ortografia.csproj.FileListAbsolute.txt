@@ -1,0 +1,11 @@
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Game_Ortografia.exe.config
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Game_Ortografia.exe
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Game_Ortografia.pdb
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.csprojResolveAssemblyReference.cache
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.Form1.resources
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.Properties.Resources.resources
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.csproj.GenerateResource.Cache
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.exe
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\obj\Debug\Game_Ortografia.pdb
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Ortografia_database.mdf
+D:\Studia\PROJEKT_GIERKA_2000\projekt_VS_C#\Game_Ortografia\Game_Ortografia\bin\Debug\Ortografia_database_log.ldf
